@@ -24,11 +24,18 @@ This workshop provides a brief introduction to the data and technical processes 
 <img src="./assets/clip.png" alt="a screenshot of the CLIP OpenAI website"/>
 <p><a href="https://openai.com/research/clip">CLIP</a> is a neural network trained on image-text pairs. In the context of Stable Diffusion and LAION-5B. CLIP is used to <em>evaluate</em> image descriptions and automatically filter out image-text pairs that don't have a strong relationship from the Common Crawl data. If image-text pairs were rated a score lower than a certain threshold, they were discarded. This allowed the creators of LAION to work with such a large database of images without individually evaluating each pair by hand. To understand how CLIP works and its biases, we should look at the data this model was trained on.<br><br><a href="./clip.html">→ Let's dive deeper into CLIP</a></p>
 <h4 id="laion-5b">LAION-5B</h4>
+<img src="./assets/laion.png" alt="a screenshot of images from the LAION dataset"/>
 <p><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a> is an open source dataset of over 5 billion CLIP-filtered image-text pairs. It is used to train Stable Diffusion.<br><br><a href="./laion.html">→ Let's dive deeper into LAION-5B</a> </p>
 <h4 id="stable-diffusion">Stable Diffusion</h4>
-<p>Ok we made it to <a href="https://stablediffusionweb.com/">Stable Diffusion</a>! Stable Diffusion is a text-to-image generator. It is similar to MidJourney, Dall-E, & GooeyAI. What distinguishes Stable Diffusion is that it is open source. Because of this, I was able to peel back the layers and better understand the data it was trained on. With other models, that information is private. Now that we've taken a brief look at the data behind Stable Diffusion, let's give it a try.<br>
+<img src="./assets/dog.png" alt="a generated image of a dog with a cloud on its head"/>
+<p>Ok we made it to <a href="https://stablediffusionweb.com/">Stable Diffusion</a>! Stable Diffusion is a text-to-image generator. It is similar to MidJourney, Dall-E, & GooeyAI. What distinguishes Stable Diffusion is that it is open source. Because of this, I was able to peel back the layers and better understand the data it was trained on. With other models, that information is private. Now that we've taken a brief look at the data behind Stable Diffusion, let's give it a try and share our prompts and images with each other.<br>
 <a href="https://stablediffusionweb.com/#demo">→ Try Stable Diffusion</a></p>
-
+<br><br>
+<a href="./readings.html">→ Here are some additional readings/references</a><br><br>
+And here's an alternative version of Stable Diffusion that takes drawings as input: <br>
+<a href="https://scribblediffusion.com/">→ Scribble Diffusion (2023)</a><br>
+And here is a similar 'ancestor' of Scribble Diffusion from 2017 called Pix2Pix for comparison:<br>
+    <a href="https://affinelayer.com/pixsrv/">→ Pix2Pix (2017)</a>
 
 
 
@@ -41,8 +48,8 @@ This workshop provides a brief introduction to the data and technical processes 
     <a href="./unsafe.html">→ See Sample of LAION dataset sorted by unsafe score</a><br>
     <a href="./aesthetic.html">→ See Sample of LAION dataset sorted by aesthetic score</a><br>
     <a href="./readings.html">→ Readings & References</a>
-
-
+    <a href="https://scribblediffusion.com/">Scribble Diffusion (2023)</a>
+    <a href="https://affinelayer.com/pixsrv/">Pix2Pix (2017)</a>
 </div>
     <!-- <script src="fun.js"></script> -->
 </body>
