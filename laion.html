@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Workshop</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<div id="fun"></div>
+
+    <div id="intro">
+        <a href="./">← back</a><br><br>
+        <img alt="a screenshot of different images from the LAION database" src="./assets/laion.png"/><br>
+<br>
+
+
+<a href="https://laion.ai/blog/laion-5b/">LAION-5B</a> contains over 5 billion image-text pairs. I have downloaded a small subset of their <a href="https://laion.ai/blog/laion-aesthetics/">'aesthetically pleasing' subset</a>. To produce an aesthetic score, LAION creators used a model they trained on the <a href="https://github.com/JD-P/simulacra-aesthetic-captions">Simulcra Aesthetic Captions</a> dataset, a dataset of AI generated images & their prompts that users rated on a scale of 1-10.
+The images that I downloaded also have similarity scores (from the CLIP filtering) and "unsafe" scores. The Unsafe Score comes from yet <a href="https://github.com/LAION-AI/CLIP-based-NSFW-Detector"><em>another</em> AI model</a> trained to detect "NSFW" images. The automation of NSFW ratings is something that my friend Livia Foldes has been thinking a lot about in relation to sex workers rights with her group <a href="https://decodingstigma.tech/">Decoding Stigma</a>. As you can imagine, there is a lot of problems with automatic detection of NSWF images from the use of nonconsensual imagery in training data to false positives.
+<br><br>
+But let's take a look at this subset that I've downloaded in order of the NSFW/unsafe score... <br>
+<a href="./unsafe.html">→ See Sample of LAION dataset sorted by unsafe score</a><br>
+<br>
+Of course, aesthetic is also an interesting thing to try to quantify...
+<br>
+<a href="./aesthetic.html">→ See Sample of LAION dataset sorted by aesthetic score</a><br>
+<br>
+Spend some time exploring this subset. For reference, I have downloaded 1454 images which is only about 0.00002908% of the full dataset.
+
+
+<br><br>   <a href="./">← back</a><br>
+</div>
+    <!-- <script src="fun.js"></script> -->
+</body>
+</html>

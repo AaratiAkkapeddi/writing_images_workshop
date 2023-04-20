@@ -7,21 +7,60 @@ body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 
 }
+#intro #diagram{
+    margin: 100px auto;
+}
+#intro #diagram a{
+    display: inline;
+    text-decoration: none;
+    background-color: rgb(24, 24, 24);
+    padding:5px;
+    border-radius: 100%;
+    margin-left:-10px;
+    box-sizing: border-box;
+    border:15px solid rgb(24,24,24);
+    color: #dbd7d2;
+}
+#intro #diagram a:link,#intro #diagram a:visited{
+    color:#dbd7d2;
+    text-decoration: none;
+}
+#intro #diagram a:first-child{
+    margin-left:0;
+}
 #fun img{
     position: fixed;
     opacity: 0.2;
     z-index: -2;
 }
+#intro img{
+    width: 500px;
+}
+#intro small{
+    font-size:20px;
+    margin-bottom:10px;
+    font-style: italic;
+    display: block;
+}
+#cats{
+    padding-left: 0;
+    max-height:200px;
+    overflow: scroll;
+    border:2px solid rgb(24, 24, 24);
+}
+#cats li{
+    list-style: none;
+    border-bottom:2px solid rgb(24, 24, 24);
+}
 #intro h1{
     /* font-weight: normal; */
     margin:0;
-    font-size:75px;
+    font-size:55px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #intro a,#intro a:visited, #intro{
-    display: block;
     color:rgb(24, 24, 24);
-    font-size:56px;
+    font-size:36px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #intro a:hover{

@@ -10,12 +10,40 @@
 <body>
 <div id="fun"></div>
     <div id="intro">
+        <img src="./assets/download.jpeg"/><br><small>Prompt for image above: a photograph comes out of a typewriter</small>
 <h1>Writing Images: Exploring the data behind popular text to image generation models</h1><br>
-This workshop provides a brief introduction to the data and technical processes behind popular text to image models through a combination of lecture and group activity. Specifically, we will focus on Stable Diffusion and take a ‘tour’ of the dataset behind it, LAION 5b - one of the largest text & image datasets. We will walk through the creation of LAION 5b, making pit-stops along the way to unpack technical terms and discuss potential ethical questions that arise. 
-<br><br>   <a href="./unsafe.html">→ See Sample of LAION dataset sorted by unsafe score</a>
-    <a href="./aesthetic.html">→ See Sample of LAION dataset sorted by aesthetic score</a>
-    <a href="https://colab.research.google.com/drive/1R8C3DD1RQjsDO5cx4KChOuOZ5KwwJJRj#scrollTo=XtHeUcMJ-0YM">→ Test your image descriptions with CLIP</a>
-    </div>
-    <script src="fun.js"></script>
+This workshop provides a brief introduction to the data and technical processes behind popular text to image models through a combination of lecture and group activity. Specifically, we will focus on <a href="https://stablediffusionweb.com/">Stable Diffusion</a> and take a ‘tour’ of the dataset behind it, LAION 5b - one of the largest text & image datasets. We will walk through the creation of LAION 5b, making pit-stops along the way to unpack technical terms and discuss potential ethical questions that arise. A lot of what I've learned about Stable Diffusion and LAION-5B is from <a href='https://arxiv.org/pdf/2110.01963.pdf'>this paper</a>.
+<div id="diagram"><h4>Our Journey:</h4><a href="#common-crawl">Common-crawl →</a><a href="#alt-text">Alt-text →</a><a href="#clip-filtering">CLIP Filtering →</a><a href="#laion-5b">LAION-5B →</a><a href="#stable-diffusion">Stable Diffusion</a></div>
+<h4 id="common-crawl">Common Crawl</h4>
+<img src="./assets/spider.png" alt="a cartoon spider"/>
+<p>LAION-5B uses data from the Common Crawl archive. <a href="https://commoncrawl.org/">Common Crawl</a> is a 501(c)(3) nonprofit that has been 'crawling' or scanning the web since 2008 and collecting raw website data for open use. It crawls approximately once a month. It respects nofollow and robots.txt policies. These are ways to tell robots not to crawl your site. But this affects search engine results for your site. It is so much data that I couldn't figure out how to download a small portion of it for today but you can look into this on your own if you want <a href="https://commoncrawl.org/the-data/get-started/">here</a>. This data comes in the form of a .warc file or a <em>web archive file.</em> This is a format for storing websites as archival files. As a side note, if you want to know more about archiving your websites, I suggest looking into <a href="https://conifer.rhizome.org/">conifer</a>.</em></p>
+<h4 id="alt-text">Alt Text</h4>
+<img src="./assets/alt_text.png" alt="a screenshot of the NYPL website showing alt text code for an image"/>
+<p>On websites, alt text is an important part of HTML code that allows us to describe images for things like vision-impaired visitors or as a replacement when image files don't load.<br><br><a href="./alttext.html">→ Let's dive deeper into Alt Text</a></p>
+<h4 id="clip-filtering">CLIP Filtering</h4>
+<img src="./assets/clip.png" alt="a screenshot of the CLIP OpenAI website"/>
+<p><a href="https://openai.com/research/clip">CLIP</a> is a neural network trained on image-text pairs. In the context of Stable Diffusion and LAION-5B. CLIP is used to <em>evaluate</em> image descriptions and automatically filter out image-text pairs that don't have a strong relationship from the Common Crawl data. If image-text pairs were rated a score lower than a certain threshold, they were discarded. This allowed the creators of LAION to work with such a large database of images without individually evaluating each pair by hand. To understand how CLIP works and its biases, we should look at the data this model was trained on.<br><br><a href="./clip.html">→ Let's dive deeper into CLIP</a></p>
+<h4 id="laion-5b">LAION-5B</h4>
+<p><a href="https://laion.ai/blog/laion-5b/">LAION-5B</a> is an open source dataset of over 5 billion CLIP-filtered image-text pairs. It is used to train Stable Diffusion.<br><br><a href="./laion.html">→ Let's dive deeper into LAION-5B</a> </p>
+<h4 id="stable-diffusion">Stable Diffusion</h4>
+<p>Ok we made it to <a href="https://stablediffusionweb.com/">Stable Diffusion</a>! Stable Diffusion is a text-to-image generator. It is similar to MidJourney, Dall-E, & GooeyAI. What distinguishes Stable Diffusion is that it is open source. Because of this, I was able to peel back the layers and better understand the data it was trained on. With other models, that information is private. Now that we've taken a brief look at the data behind Stable Diffusion, let's give it a try.<br>
+<a href="https://stablediffusionweb.com/#demo">→ Try Stable Diffusion</a></p>
+
+
+
+
+
+<br><br>   
+<strong>Quick Links:</strong><br>    
+<a href="./alttext.html">→ Alt Text</a><br>
+<a href="./clip.html">→ More about CLIP</a>
+    <a href="https://colab.research.google.com/drive/1R8C3DD1RQjsDO5cx4KChOuOZ5KwwJJRj#scrollTo=XtHeUcMJ-0YM">→ Test your image descriptions with CLIP</a><br>
+    <a href="./unsafe.html">→ See Sample of LAION dataset sorted by unsafe score</a><br>
+    <a href="./aesthetic.html">→ See Sample of LAION dataset sorted by aesthetic score</a><br>
+    <a href="./readings.html">→ Readings & References</a>
+
+
+</div>
+    <!-- <script src="fun.js"></script> -->
 </body>
 </html>
