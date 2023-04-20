@@ -1,0 +1,18 @@
+{
+    "similarity": 0.3237230181694031,
+    "hash": 8058914669006841360,
+    "punsafe": 0.0015783905982971191,
+    "pwatermark": 0.25717267394065857,
+    "aesthetic": 7.331788063049316,
+    "caption": "\"Joe Smith on his \"\"King Rat\"\" Top Fuel bike demonstrating how motorcycle burnouts used to be done. Smith was the first to break into the 8-second zone on a bike.\"",
+    "url": "https://st.hotrod.com/uploads/sites/21/2017/04/joe-smith-king-rat.jpg",
+    "key": "000014715",
+    "status": "success",
+    "error_message": null,
+    "width": 576,
+    "height": 384,
+    "original_width": 2100,
+    "original_height": 1400,
+    "exif": "{\"Image ImageWidth\": \"3312\", \"Image ImageLength\": \"2008\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"2400\", \"Image YResolution\": \"2400\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2015 (Windows)\", \"Image DateTime\": \"2017:04:25 11:29:39\", \"Image Artist\": \"Dave Kommel\", \"Image Copyright\": \"\\u00a9 2017 Dave Kommel\", \"Image ExifOffset\": \"292\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"474\", \"Thumbnail JPEGInterchangeFormatLength\": \"6107\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:03:19 16:24:28\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"2100\", \"EXIF ExifImageLength\": \"1400\"}",
+    "sha256": "81dd1c545023a7330920beace43e36f5b7522024645195db9602d3b79088ee93"
+}

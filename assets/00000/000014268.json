@@ -1,0 +1,18 @@
+{
+    "similarity": 0.3293079137802124,
+    "hash": 8317021586095340315,
+    "punsafe": 3.998203283117618e-06,
+    "pwatermark": 0.13513024151325226,
+    "aesthetic": 7.239500045776367,
+    "caption": "Salsa and chips",
+    "url": "https://i0.wp.com/www.nmgastronome.com/usa/newmexican/Images/Molinos04.jpg?resize=479%2C366&ssl=1",
+    "key": "000014268",
+    "status": "success",
+    "error_message": null,
+    "width": 479,
+    "height": 366,
+    "original_width": 479,
+    "original_height": 366,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon PowerShot SD800 IS\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"180\", \"Image YResolution\": \"180\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2008:08:24 09:35:21\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"196\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"180\", \"Thumbnail YResolution\": \"180\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"5108\", \"Thumbnail JPEGInterchangeFormatLength\": \"5471\", \"EXIF ExposureTime\": \"1/5\", \"EXIF FNumber\": \"14/5\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2008:08:23 13:28:05\", \"EXIF DateTimeDigitized\": \"2008:08:23 13:28:05\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"3\", \"EXIF ShutterSpeedValue\": \"37/16\", \"EXIF ApertureValue\": \"95/32\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"95/32\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"23/5\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"57311\", \"EXIF ExifImageLength\": \"366\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"3072\", \"Interoperability RelatedImageLength\": \"2304\", \"EXIF InteroperabilityOffset\": \"3314\", \"EXIF FocalPlaneXResolution\": \"40960/3\", \"EXIF FocalPlaneYResolution\": \"2304000/169\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "40103df8547ab2b5a5e80db72960ecf083afc85eedc2b6fbb4d2124fe9638bfb"
+}

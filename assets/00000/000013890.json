@@ -1,0 +1,18 @@
+{
+    "similarity": 0.3234131336212158,
+    "hash": 4572477696747647028,
+    "punsafe": 0.0001030270432238467,
+    "pwatermark": 0.07980823516845703,
+    "aesthetic": 7.619917392730713,
+    "caption": "Near our vacation rentals is these beautiful pies from the Baked Pie Company",
+    "url": "https://static.wixstatic.com/media/13e68e_5c8c78f09e62438fbd3e54bc50088f4d~mv2.jpg/v1/fill/w_722,h_960,al_c,q_90/13e68e_5c8c78f09e62438fbd3e54bc50088f4d~mv2.jpg",
+    "key": "000013890",
+    "status": "success",
+    "error_message": null,
+    "width": 384,
+    "height": 511,
+    "original_width": 722,
+    "original_height": 960,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"722\", \"EXIF ExifImageLength\": \"960\"}",
+    "sha256": "1a3f746b5c543166ab027c666b0faf27a52eb9811767646c8f4eb0b25b9ea29a"
+}

@@ -1,0 +1,18 @@
+{
+    "similarity": 0.3775494694709778,
+    "hash": -6681246755085131020,
+    "punsafe": 7.913780564194894e-07,
+    "pwatermark": 0.09543652832508087,
+    "aesthetic": 7.350881099700928,
+    "caption": "Wivenhoe Park, as painted by John Constable",
+    "url": "https://www.visitcolchester.com/dbimgs/Wivenhoe%20Park%20-%20Constable.jpg",
+    "key": "000013545",
+    "status": "success",
+    "error_message": null,
+    "width": 396,
+    "height": 214,
+    "original_width": 396,
+    "original_height": 214,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"1148781/11902\", \"Image YResolution\": \"1148781/11902\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image ExifOffset\": \"90\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"396\", \"EXIF ExifImageLength\": \"214\"}",
+    "sha256": "a01037bfa2b7be12381d38009e2fc7db465e4fe765c97c1bc81f105cfb54af63"
+}

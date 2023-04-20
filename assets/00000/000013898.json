@@ -1,0 +1,18 @@
+{
+    "similarity": 0.3002833425998688,
+    "hash": 1341111424645688151,
+    "punsafe": 7.792586842469973e-08,
+    "pwatermark": 0.29140332341194153,
+    "aesthetic": 7.117236137390137,
+    "caption": "Artist Tirzah Garwood-Ravilious: Semi detached villas, circa 1945",
+    "url": "http://www.lissfineart.com/th200/7044.jpg",
+    "key": "000013898",
+    "status": "success",
+    "error_message": null,
+    "width": 193,
+    "height": 200,
+    "original_width": 193,
+    "original_height": 200,
+    "exif": "{\"Image ImageWidth\": \"1448\", \"Image ImageLength\": \"1500\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D750\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2014 (Windows)\", \"Image DateTime\": \"2016:03:16 15:52:43\", \"Image Copyright\": \"petra*photographe\", \"Image ExifOffset\": \"320\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1050\", \"Thumbnail JPEGInterchangeFormatLength\": \"6719\", \"EXIF ExposureTime\": \"1/125\", \"EXIF FNumber\": \"8\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"320\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:02:24 18:46:39\", \"EXIF DateTimeDigitized\": \"2015:02:24 18:46:39\", \"EXIF ShutterSpeedValue\": \"870723/125000\", \"EXIF ApertureValue\": \"6\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"135\", \"EXIF SubSecTimeOriginal\": \"68\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1448\", \"EXIF ExifImageLength\": \"1500\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Manual\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"135\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"8503498\", \"EXIF LensSpecification\": \"[80, 200, 14/5, 14/5]\", \"EXIF LensModel\": \"80.0-200.0 mm f/2.8\"}",
+    "sha256": "5ee3a6e31504f5d7b95a22729239811fbee9be2b973f8bd35ec65c8069a6f92e"
+}

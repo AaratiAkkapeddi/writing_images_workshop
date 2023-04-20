@@ -1,0 +1,18 @@
+{
+    "similarity": 0.2929472029209137,
+    "hash": -8550628521020870234,
+    "punsafe": 0.002190113067626953,
+    "pwatermark": 0.10287155956029892,
+    "aesthetic": 7.120716571807861,
+    "caption": "Bride and Groom cutting cake | OH Snap! Photography | As seen on TodaysBride.com",
+    "url": "https://todaysbride.com/wp-content/uploads/2020/02/weddings-in-wayne-2019-783.jpg",
+    "key": "000014282",
+    "status": "success",
+    "error_message": null,
+    "width": 480,
+    "height": 384,
+    "original_width": 700,
+    "original_height": 560,
+    "exif": "{\"Image ImageWidth\": \"4320\", \"Image ImageLength\": \"3456\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5.1 Windows\", \"Image DateTime\": \"2020:02:26 11:38:28\", \"Image Copyright\": \"OH Snap! Photography\", \"Image ExifOffset\": \"264\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"414\", \"Thumbnail JPEGInterchangeFormatLength\": \"6624\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"700\", \"EXIF ExifImageLength\": \"560\"}",
+    "sha256": "b57d3f685863627afc8337ebdcb26736379106283d39de4150e46996a3dcd369"
+}

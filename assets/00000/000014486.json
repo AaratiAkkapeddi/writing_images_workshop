@@ -1,0 +1,18 @@
+{
+    "similarity": 0.32827329635620117,
+    "hash": 2879203791089751187,
+    "punsafe": 0.007086604833602905,
+    "pwatermark": 0.10622292011976242,
+    "aesthetic": 7.056952953338623,
+    "caption": "Ryan Reynolds has mastered airport style",
+    "url": "https://www.esquireme.com/public/styles/300px_213px_wide_landscape/public/images/2018/05/30/ryan-reynolds-airport-2-1527599281_1.jpg?itok=D5AcVunm&c=ae953913a6b4477379977c56ce688643",
+    "key": "000014486",
+    "status": "success",
+    "error_message": null,
+    "width": 300,
+    "height": 213,
+    "original_width": 300,
+    "original_height": 213,
+    "exif": "{\"Image ImageWidth\": \"768\", \"Image ImageLength\": \"1189\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2018 (Windows)\", \"Image DateTime\": \"2018:05:30 09:46:12\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"386\", \"Thumbnail JPEGInterchangeFormatLength\": \"5028\", \"EXIF ExifVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"768\", \"EXIF ExifImageLength\": \"599\"}",
+    "sha256": "671ad3ce4af71781f0234141f9ac16e98e64837f330121df945f059b99ff020b"
+}

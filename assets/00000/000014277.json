@@ -1,0 +1,18 @@
+{
+    "similarity": 0.2854321599006653,
+    "hash": 5690969813969999293,
+    "punsafe": 2.945702726719901e-05,
+    "pwatermark": 0.05689974129199982,
+    "aesthetic": 8.106242179870605,
+    "caption": "Photography by Kate Nielen Cliveden House",
+    "url": "https://static.wixstatic.com/media/d09b2a_abfbd378350c4d169c97239b62587182~mv2_d_3965_2832_s_4_2.jpg/v1/fill/w_485,h_346,fp_0.50_0.50,q_90/d09b2a_abfbd378350c4d169c97239b62587182~mv2_d_3965_2832_s_4_2.jpg",
+    "key": "000014277",
+    "status": "success",
+    "error_message": null,
+    "width": 485,
+    "height": 346,
+    "original_width": 485,
+    "original_height": 346,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"127/5\", \"Image YResolution\": \"127/5\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"102\", \"EXIF ExifVersion\": \"\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"485\", \"EXIF ExifImageLength\": \"346\"}",
+    "sha256": "ad2bda2c1a6e563c98f9e97c6a4179e9120bebe24ac0e793381d6ab4d2e4bd93"
+}

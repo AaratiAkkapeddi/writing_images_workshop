@@ -1,0 +1,18 @@
+{
+    "similarity": 0.30602338910102844,
+    "hash": 9171648911909621274,
+    "punsafe": 9.344743739347905e-05,
+    "pwatermark": 0.044327739626169205,
+    "aesthetic": 7.7222442626953125,
+    "caption": "Strawberry sponge cake & tart.",
+    "url": "https://petitjaponais.com/wp-content/uploads/2013/02/tumblr_midc3wIHn81r5vlxwo1_500.jpg",
+    "key": "000014771",
+    "status": "success",
+    "error_message": null,
+    "width": 384,
+    "height": 512,
+    "original_width": 480,
+    "original_height": 640,
+    "exif": "{\"Image Make\": \"Samsung\", \"Image Model\": \"Galaxy Nexus\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image DateTime\": \"2013:02:17 12:37:44\", \"Image ExifOffset\": \"180\", \"GPS GPSTimeStamp\": \"[3, 37, 4400]\", \"GPS GPSDate\": \"2013:02:17\", \"Image GPSInfo\": \"796\", \"EXIF ExposureTime\": \"600/10001\", \"EXIF FNumber\": \"11/4\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"[125, 0, 0]\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:02:17 12:37:44\", \"EXIF DateTimeDigitized\": \"2013:02:17 12:37:44\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF CompressedBitsPerPixel\": \"0\", \"EXIF ShutterSpeedValue\": \"779/200\", \"EXIF ApertureValue\": \"11/4\", \"EXIF BrightnessValue\": \"0\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"11/4\", \"EXIF SubjectDistance\": \"0\", \"EXIF MeteringMode\": \"MultiSpot\", \"EXIF LightSource\": \"Fluorescent\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"343/100\", \"EXIF ExposureIndex\": \"0\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"480\", \"EXIF ExifImageLength\": \"640\", \"EXIF FlashEnergy\": \"0\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF CustomRendered\": \"Custom\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF ImageUniqueID\": \"OAEL01\"}",
+    "sha256": "d08661fb2ca26a2c34d00057391b3f0505c4bf9686f5c9058f3e6d5bd3e32e61"
+}

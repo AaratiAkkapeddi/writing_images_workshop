@@ -1,0 +1,18 @@
+{
+    "similarity": 0.3215806186199188,
+    "hash": -4257783882316574550,
+    "punsafe": 1.2974726814718451e-05,
+    "pwatermark": 0.018209153786301613,
+    "aesthetic": 7.2027692794799805,
+    "caption": "Sweet tea and peach buttermilk scones",
+    "url": "http://d2k9njawademcf.cloudfront.net/indeximages/30840/full/peach_scones_peaches.jpg?1380097985",
+    "key": "000014558",
+    "status": "success",
+    "error_message": null,
+    "width": 451,
+    "height": 384,
+    "original_width": 590,
+    "original_height": 502,
+    "exif": "{\"Image ImageDescription\": \"\", \"Image Make\": \"NIKON\", \"Image Model\": \"COOLPIX S210\", \"Image Orientation\": \"Horizontal (normal)\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Nikon Transfer 1.0 W\", \"Image DateTime\": \"2011:08:25 17:12:10\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"256\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"300\", \"Thumbnail YResolution\": \"300\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"8520\", \"Thumbnail JPEGInterchangeFormatLength\": \"3808\", \"EXIF ExposureTime\": \"413223/25000000\", \"EXIF FNumber\": \"31/10\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"129\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2011:08:25 14:53:02\", \"EXIF DateTimeDigitized\": \"2011:08:25 14:53:02\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"33/10\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"63/10\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"3264\", \"EXIF ExifImageLength\": \"2448\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"884\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"0\", \"EXIF FocalLengthIn35mmFilm\": \"38\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "2cdc67874a76089d5b5f925302ab805f827fa89de0958bff6f352373c5c267f1"
+}

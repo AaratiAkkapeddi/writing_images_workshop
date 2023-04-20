@@ -1,0 +1,18 @@
+{
+    "similarity": 0.30988699197769165,
+    "hash": -2221456099329395517,
+    "punsafe": 0.000682830810546875,
+    "pwatermark": 0.2790682911872864,
+    "aesthetic": 7.011557102203369,
+    "caption": "Photo of 905 Hawk Hill Trail, Palm Desert, CA 92211",
+    "url": "http://cdn.photos.sparkplatform.com/gps/20191009152459192272000000-o.jpg",
+    "key": "000013885",
+    "status": "success",
+    "error_message": null,
+    "width": 577,
+    "height": 384,
+    "original_width": 1000,
+    "original_height": 666,
+    "exif": "{\"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D850\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"\", \"Image YResolution\": \"\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"\", \"Image DateTime\": \"2019:04:01 16:32:33\", \"Image ExifOffset\": \"258\", \"Image SensitivityType\": \"Recommended Exposure Index\", \"Image RecommendedExposureIndex\": \"64\", \"EXIF ExposureTime\": \"3/5\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"64\", \"EXIF DateTimeOriginal\": \"2019:03:29 06:11:16\", \"EXIF DateTimeDigitized\": \"2019:03:29 06:11:16\", \"EXIF ShutterSpeedValue\": \"2191/2973\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"4\", \"EXIF MeteringMode\": \"Spot\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"16\", \"EXIF SubSecTime\": \"33\", \"EXIF SubSecTimeOriginal\": \"33\", \"EXIF SubSecTimeDigitized\": \"33\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1000\", \"EXIF ExifImageLength\": \"666\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"16\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "083f4c2942b67e193f9512d9b917146c59ad1580fe117f9cc80903a9f6d6dbfa"
+}

@@ -1,0 +1,18 @@
+{
+    "similarity": 0.3177292048931122,
+    "hash": 5631876442782666057,
+    "punsafe": 0.0065923333168029785,
+    "pwatermark": 0.1279078871011734,
+    "aesthetic": 7.323690414428711,
+    "caption": "My Town : Bakery screenshot 2",
+    "url": "http://is2.mzstatic.com/image/thumb/Purple118/v4/04/42/a3/0442a3c1-6c1c-e2b9-3edb-5cd1dabde604/source/406x228bb.jpg",
+    "key": "000014142",
+    "status": "success",
+    "error_message": null,
+    "width": 405,
+    "height": 228,
+    "original_width": 405,
+    "original_height": 228,
+    "exif": "{\"Image ExifOffset\": \"26\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"405\", \"EXIF ExifImageLength\": \"228\"}",
+    "sha256": "129b3c745566a3cdd89c73e92524a303f04866edcb0a86a90187cfbef89b918e"
+}

@@ -1,0 +1,18 @@
+{
+    "similarity": 0.31939688324928284,
+    "hash": 7071383921730528173,
+    "punsafe": 0.0018521547317504883,
+    "pwatermark": 0.14634931087493896,
+    "aesthetic": 7.788183689117432,
+    "caption": "Just engaged couple walking through the oak trees - Brookgreen Gardens",
+    "url": "https://www.ryansmithphotography.com/wp-content/uploads/2017/09/just-engaged-couple-walking-through-the-oak-trees-brookgreen-gardens.jpg",
+    "key": "000014544",
+    "status": "success",
+    "error_message": null,
+    "width": 575,
+    "height": 384,
+    "original_width": 2500,
+    "original_height": 1669,
+    "exif": "{\"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D810\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom Classic 11.5 (Macintosh)\", \"Image DateTime\": \"2022:10:14 15:29:46\", \"Image Artist\": \"Ryan Smith\", \"Image Copyright\": \"\\u00a9 2016 Ryan Smith Photography\", \"Image ExifOffset\": \"308\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[33, 77724931/2500000, 0]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[79, 55569657/10000000, 0]\", \"Image GPSInfo\": \"984\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1192\", \"Thumbnail JPEGInterchangeFormatLength\": \"17465\", \"EXIF ExposureTime\": \"1/200\", \"EXIF FNumber\": \"2\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:04:28 18:33:43\", \"EXIF DateTimeDigitized\": \"2017:04:28 18:33:43\", \"EXIF OffsetTime\": \"-04:00\", \"EXIF ShutterSpeedValue\": \"477741/62500\", \"EXIF ApertureValue\": \"2\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"1\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"85\", \"EXIF SubSecTimeOriginal\": \"3\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"16780511/8192\", \"EXIF FocalPlaneYResolution\": \"16780511/8192\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF FileSource\": \"0\", \"EXIF SceneType\": \"0\", \"EXIF CVAPattern\": \"[0, 0, 0, 0, 0, 0, 0, 0]\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"85\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"None\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\", \"EXIF BodySerialNumber\": \"3011293\", \"EXIF LensSpecification\": \"[85, 85, 7/5, 7/5]\", \"EXIF LensModel\": \"85.0 mm f/1.4\"}",
+    "sha256": "3cbb19ca3c266097280626914a24ed6dfb735b047253baf501f027240d8907a1"
+}

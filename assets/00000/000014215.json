@@ -1,0 +1,18 @@
+{
+    "similarity": 0.31347355246543884,
+    "hash": -8579204779287637377,
+    "punsafe": 0.00014331936836242676,
+    "pwatermark": 0.10099664330482483,
+    "aesthetic": 7.16672420501709,
+    "caption": "Halloween Disney Cruise",
+    "url": "https://mickeyblog.com/wp-content/uploads/2020/05/13-1.jpg",
+    "key": "000014215",
+    "status": "success",
+    "error_message": null,
+    "width": 595,
+    "height": 384,
+    "original_width": 1000,
+    "original_height": 645,
+    "exif": "{\"Image PhotometricInterpretation\": \"2\", \"Image ImageDescription\": \"DCL MDS: STILLS\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark IV\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop 21.0 (Macintosh)\", \"Image DateTime\": \"2020:05:06 13:25:45\", \"Image Copyright\": \"Caitie McCabe Photography\", \"Image ExifOffset\": \"298\", \"EXIF ExposureTime\": \"1/640\", \"EXIF FNumber\": \"14/5\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"4000\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"4000\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:10:30 05:45:33\", \"EXIF DateTimeDigitized\": \"2017:10:30 05:45:33\", \"EXIF ShutterSpeedValue\": \"5994/643\", \"EXIF ApertureValue\": \"2956/995\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"1\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"24\", \"EXIF SubSecTime\": \"53\", \"EXIF SubSecTimeOriginal\": \"53\", \"EXIF SubSecTimeDigitized\": \"53\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"1000\", \"EXIF ExifImageLength\": \"645\", \"EXIF FocalPlaneXResolution\": \"5600/3\", \"EXIF FocalPlaneYResolution\": \"5600/3\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"042052001357\", \"EXIF LensSpecification\": \"[24, 24, 0, 0]\", \"EXIF LensModel\": \"EF24mm f/1.4L II USM\", \"EXIF LensSerialNumber\": \"000040ada3\"}",
+    "sha256": "850083a404b58c9dae0a4d7e6d20e99364ce7e1cd8cd33006e66b166a5520ca1"
+}

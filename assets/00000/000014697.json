@@ -1,0 +1,18 @@
+{
+    "similarity": 0.2853662371635437,
+    "hash": 163275530583129996,
+    "punsafe": 0.0003413259983062744,
+    "pwatermark": 0.06308043003082275,
+    "aesthetic": 7.5949249267578125,
+    "caption": "Childrens Museum  South Texas  Childrens Museum of",
+    "url": "https://i0.wp.com/cmofbrownsville.org/wp-content/uploads/2014/02/MG_7436-3018491409-O.jpg",
+    "key": "000014697",
+    "status": "success",
+    "error_message": null,
+    "width": 576,
+    "height": 384,
+    "original_width": 1000,
+    "original_height": 667,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 6D\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"240\", \"Image YResolution\": \"240\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS4 Windows\", \"Image DateTime\": \"2014:02:26 16:37:22\", \"Image ExifOffset\": \"208\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"882\", \"Thumbnail JPEGInterchangeFormatLength\": \"7014\", \"EXIF ExposureTime\": \"1/180\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Aperture Priority\", \"EXIF ISOSpeedRatings\": \"1600\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"1600\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2014:01:03 12:47:56\", \"EXIF DateTimeDigitized\": \"2014:01:03 12:47:56\", \"EXIF ShutterSpeedValue\": \"7491853/1000000\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"4\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash fired, compulsory flash mode\", \"EXIF FocalLength\": \"23\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1000\", \"EXIF ExifImageLength\": \"667\", \"EXIF FocalPlaneXResolution\": \"152\", \"EXIF FocalPlaneYResolution\": \"152\", \"EXIF FocalPlaneResolutionUnit\": \"4\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"032024013108\", \"EXIF LensSpecification\": \"[17, 40, 0/0, 0/0]\", \"EXIF LensModel\": \"EF17-40mm f/4L USM\", \"EXIF LensSerialNumber\": \"0000000000\"}",
+    "sha256": "37e507251df0c70e49f66870c16a9d060bf1a45d8ac0772c5be679e371a46176"
+}

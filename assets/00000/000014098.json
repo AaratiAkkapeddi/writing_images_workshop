@@ -1,0 +1,18 @@
+{
+    "similarity": 0.3169523775577545,
+    "hash": 4607368443313232272,
+    "punsafe": 0.000928044319152832,
+    "pwatermark": 0.033126093447208405,
+    "aesthetic": 7.441908359527588,
+    "caption": "Thumbnail Chalet for sale in Val D'is\u00e8re, Savoie, France",
+    "url": "https://lid.zoocdn.com/645/430/0243140812b33e700fdc7d149ad0b4831f45295e.jpg",
+    "key": "000014098",
+    "status": "success",
+    "error_message": null,
+    "width": 576,
+    "height": 384,
+    "original_width": 645,
+    "original_height": 430,
+    "exif": "{\"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Copyright\": \"GERARD COTTET\", \"Image ExifOffset\": \"116\", \"EXIF ExifImageWidth\": \"645\", \"EXIF ExifImageLength\": \"430\"}",
+    "sha256": "075ce54bfc46dbe4dd3d1f982bd45140cf3f4a66ab66aabae8e18dd200194cad"
+}

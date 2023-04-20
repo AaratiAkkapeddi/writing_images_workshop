@@ -1,0 +1,18 @@
+{
+    "similarity": 0.3292278051376343,
+    "hash": -1432238621146510939,
+    "punsafe": 0.008940726518630981,
+    "pwatermark": 0.0941844955086708,
+    "aesthetic": 7.35040283203125,
+    "caption": "Benjamin Gage in his 1967 Ford Mustang GT Convertible.",
+    "url": "https://s3.amazonaws.com/scardigest/wp-content/uploads/20161213193938/dsc_6934.jpg",
+    "key": "000014246",
+    "status": "success",
+    "error_message": null,
+    "width": 576,
+    "height": 384,
+    "original_width": 800,
+    "original_height": 533,
+    "exif": "{\"Image PhotometricInterpretation\": \"2\", \"Image ImageDescription\": \"Benjamin Gage in his 67 Ford Mustang GT Convertible.\", \"Image Make\": \"NIKON CORPORATION\", \"Image Model\": \"NIKON D700\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Aperture 3.1\", \"Image DateTime\": \"2010:09:11 09:28:56\", \"Image Copyright\": \"\\u00a92010 Dennis Gray\", \"Image ExifOffset\": \"312\", \"EXIF ExposureTime\": \"1/320\", \"EXIF FNumber\": \"13\", \"EXIF ExposureProgram\": \"Shutter Priority\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF DateTimeOriginal\": \"2010:09:11 09:28:56\", \"EXIF DateTimeDigitized\": \"2010:09:11 09:28:56\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF LightSource\": \"Unknown\", \"EXIF Flash\": \"Flash did not fire\", \"EXIF FocalLength\": \"140\", \"EXIF SubSecTime\": \"44\", \"EXIF SubSecTimeOriginal\": \"44\", \"EXIF SubSecTimeDigitized\": \"44\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"533\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF DigitalZoomRatio\": \"1\", \"EXIF FocalLengthIn35mmFilm\": \"140\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF GainControl\": \"Low gain up\", \"EXIF Contrast\": \"Normal\", \"EXIF Saturation\": \"Normal\", \"EXIF Sharpness\": \"Normal\", \"EXIF SubjectDistanceRange\": \"0\"}",
+    "sha256": "53127d448a7fe78687d2b2bdc42d2d6b1e55c671b448a946b8a3d8a220cc644b"
+}

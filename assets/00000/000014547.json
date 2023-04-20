@@ -1,0 +1,18 @@
+{
+    "similarity": 0.3559351861476898,
+    "hash": -2053404888938880529,
+    "punsafe": 0.0003002583980560303,
+    "pwatermark": 0.0699755996465683,
+    "aesthetic": 7.651927471160889,
+    "caption": "Glam Blush Nursery",
+    "url": "https://projectnursery.com/wp-content/uploads/2016/08/Linen-and-Lace-Nursery-360x240.jpg",
+    "key": "000014547",
+    "status": "success",
+    "error_message": null,
+    "width": 360,
+    "height": 240,
+    "original_width": 360,
+    "original_height": 240,
+    "exif": "{\"Image ImageWidth\": \"3024\", \"Image ImageLength\": \"4032\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"Apple\", \"Image Model\": \"iPhone 6s\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"500\", \"Image YResolution\": \"500\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS5 Windows\", \"Image DateTime\": \"2016:08:29 14:16:32\", \"Image YCbCrPositioning\": \"Centered\", \"Image ExifOffset\": \"280\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"500\", \"Thumbnail YResolution\": \"500\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"930\", \"Thumbnail JPEGInterchangeFormatLength\": \"7881\", \"EXIF ExposureTime\": \"1/15\", \"EXIF FNumber\": \"11/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2016:08:25 11:42:09\", \"EXIF DateTimeDigitized\": \"2016:08:25 11:42:09\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"13229/3386\", \"EXIF ApertureValue\": \"7983/3509\", \"EXIF BrightnessValue\": \"2454/2683\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"83/20\", \"EXIF SubjectArea\": \"[2015, 1511, 2217, 1330]\", \"EXIF SubSecTimeOriginal\": \"931\", \"EXIF SubSecTimeDigitized\": \"931\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2000\", \"EXIF ExifImageLength\": \"2124\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"29\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF LensSpecification\": \"[83/20, 83/20, 11/5, 11/5]\", \"EXIF LensMake\": \"Apple\", \"EXIF LensModel\": \"iPhone 6s back camera 4.15mm f/2.2\"}",
+    "sha256": "a63ad8bf41685df25fde26d7cd968cecb83ca643727498affbfadc8a607d7263"
+}

@@ -1,0 +1,18 @@
+{
+    "similarity": 0.30708202719688416,
+    "hash": -3605112044779247053,
+    "punsafe": 1.4130994713923428e-05,
+    "pwatermark": 0.17888331413269043,
+    "aesthetic": 7.274179935455322,
+    "caption": "2020 Honda XR650L in Purvis, Mississippi - Photo 7",
+    "url": "https://cdp.azureedge.net/products/USA/HO/2020/MC/DUALPURP/XR650L/50/RED/2000000038.JPG",
+    "key": "000014378",
+    "status": "success",
+    "error_message": null,
+    "width": 577,
+    "height": 384,
+    "original_width": 800,
+    "original_height": 532,
+    "exif": "{\"Image ImageWidth\": \"1233\", \"Image ImageLength\": \"820\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"96\", \"Image YResolution\": \"96\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2018 (Windows)\", \"Image DateTime\": \"2019:09:24 15:21:39\", \"Image Artist\": \"user\", \"Image XPAuthor\": \"\", \"Image Padding\": \"[]\", \"Image ExifOffset\": \"2348\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"4658\", \"Thumbnail JPEGInterchangeFormatLength\": \"5068\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:09:24 15:18:44\", \"EXIF DateTimeDigitized\": \"2019:09:24 15:18:44\", \"EXIF SubSecTimeOriginal\": \"41\", \"EXIF SubSecTimeDigitized\": \"41\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"800\", \"EXIF ExifImageLength\": \"532\", \"EXIF Padding\": \"[]\"}",
+    "sha256": "dc3504d67c05a4ee8967842111a38493d328db5b6aa4d3641b9811bf208fe9bf"
+}

@@ -1,0 +1,18 @@
+{
+    "similarity": 0.3618231415748596,
+    "hash": 2547259335985598541,
+    "punsafe": 3.7426127619255567e-06,
+    "pwatermark": 0.1018039807677269,
+    "aesthetic": 7.0587053298950195,
+    "caption": "Yosemite Winter - Photographic Lessons Learned from Ansel Adams",
+    "url": "https://i1.wp.com/digital-photography-school.com/wp-content/uploads/2017/07/Yosemite-Winter.jpg?resize=750%2C563&ssl=1",
+    "key": "000014927",
+    "status": "success",
+    "error_message": null,
+    "width": 512,
+    "height": 384,
+    "original_width": 750,
+    "original_height": 563,
+    "exif": "{\"Image XResolution\": \"75\", \"Image YResolution\": \"75\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.10 (Macintosh)\", \"Image DateTime\": \"2017-07-05T21:36:55-07:00\", \"Image ExifOffset\": \"172\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:01:24 10:52:32\", \"EXIF DateTimeDigitized\": \"2017:01:24 10:52:32\", \"EXIF ExifImageWidth\": \"750\", \"EXIF ExifImageLength\": \"563\"}",
+    "sha256": "559dc256a68196bb958b91fc18e1b1ad44eba213c64a3aa50d45788e5f4890ca"
+}

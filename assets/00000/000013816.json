@@ -1,0 +1,18 @@
+{
+    "similarity": 0.31203964352607727,
+    "hash": 7997641748390490455,
+    "punsafe": 0.00035321712493896484,
+    "pwatermark": 0.026072001084685326,
+    "aesthetic": 7.807522773742676,
+    "caption": "Votive candles at a small Roman Catholic Christian grotto in the American state of Texas & Votive candle - Wikipedia",
+    "url": "https://upload.wikimedia.org/wikipedia/en/1/16/Votive_candles_at_a_roadside_grotto_in_north_Texas.jpg",
+    "key": "000013816",
+    "status": "success",
+    "error_message": null,
+    "width": 517,
+    "height": 384,
+    "original_width": 1200,
+    "original_height": 892,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS DIGITAL REBEL XT\", \"Image Orientation\": \"Horizontal (normal)\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CS3 Macintosh\", \"Image DateTime\": \"2007:11:13 18:03:43\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"236\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1062\", \"Thumbnail JPEGInterchangeFormatLength\": \"11256\", \"EXIF ExposureTime\": \"1/10\", \"EXIF FNumber\": \"4\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"100\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2007:06:07 04:06:40\", \"EXIF DateTimeDigitized\": \"2007:06:07 04:06:40\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"108853/32768\", \"EXIF ApertureValue\": \"4\", \"EXIF ExposureBiasValue\": \"1\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"25\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1200\", \"EXIF ExifImageLength\": \"892\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"936\", \"EXIF FocalPlaneXResolution\": \"1728000/437\", \"EXIF FocalPlaneYResolution\": \"384000/97\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "dd618d162fe00c49fb8f5d0972ebde5531872bc2493d7dfb9e522b3f5f7f0da0"
+}

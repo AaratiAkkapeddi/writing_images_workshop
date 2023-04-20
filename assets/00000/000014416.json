@@ -1,0 +1,18 @@
+{
+    "similarity": 0.32430362701416016,
+    "hash": 5422440949584261751,
+    "punsafe": 0.010294049978256226,
+    "pwatermark": 0.10526902228593826,
+    "aesthetic": 7.2518510818481445,
+    "caption": "Two soldiers hold door for Putin at inaguration",
+    "url": "https://carnegieendowment.org/images/article_images/crowning_putin.jpg",
+    "key": "000014416",
+    "status": "success",
+    "error_message": null,
+    "width": 605,
+    "height": 328,
+    "original_width": 605,
+    "original_height": 328,
+    "exif": "{\"Image Software\": \"GIMP 2.6.11\", \"Image DateTime\": \"2016:04:06 15:51:53\", \"Image Artist\": \"Picasa\", \"Image ExifOffset\": \"102\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"370\", \"Thumbnail JPEGInterchangeFormatLength\": \"5673\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2013:07:17 11:48:24\", \"EXIF ExifImageWidth\": \"605\", \"EXIF ExifImageLength\": \"328\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"Interoperability RelatedImageWidth\": \"4102\", \"Interoperability RelatedImageLength\": \"2739\", \"EXIF InteroperabilityOffset\": \"234\", \"EXIF ImageUniqueID\": \"f98758285abf6f8611f9f8648f39a7c6\"}",
+    "sha256": "8937abdc1adac1ac3ab19fd92fadd688f43e12e6b272ad03531fde7a4aa5c651"
+}

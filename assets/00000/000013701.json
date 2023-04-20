@@ -1,0 +1,18 @@
+{
+    "similarity": 0.31607699394226074,
+    "hash": 3420444863837681318,
+    "punsafe": 1.1864770385727752e-05,
+    "pwatermark": 0.0497109591960907,
+    "aesthetic": 7.033086776733398,
+    "caption": "East Greenwich Single Family Home For Sale: 145 Tillinghast Road",
+    "url": "https://storage.googleapis.com/idx-photos-gs.ihouseprd.com/RI-SWMLS/1233208/1x/000.jpg",
+    "key": "000013701",
+    "status": "success",
+    "error_message": null,
+    "width": 400,
+    "height": 300,
+    "original_width": 400,
+    "original_height": 300,
+    "exif": "{\"Image Tag 0x001F\": \"10\", \"Image Make\": \"Apple\", \"Image Model\": \"iPhone 8 Plus\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"13.1.2\", \"Image DateTime\": \"2019:10:19 09:23:39\", \"Image TileWidth\": \"512\", \"Image TileLength\": \"512\", \"Image ExifOffset\": \"302\", \"GPS GPSLatitudeRef\": \"N\", \"GPS GPSLatitude\": \"[41, 38, 2143/100]\", \"GPS GPSLongitudeRef\": \"W\", \"GPS GPSLongitude\": \"[71, 30, 2777/50]\", \"GPS GPSAltitudeRef\": \"0\", \"GPS GPSAltitude\": \"127013/1893\", \"GPS GPSSpeedRef\": \"K\", \"GPS GPSSpeed\": \"0\", \"GPS GPSImgDirectionRef\": \"T\", \"GPS GPSImgDirection\": \"1261303/4679\", \"GPS GPSDestBearingRef\": \"T\", \"GPS GPSDestBearing\": \"1261303/4679\", \"Image GPSInfo\": \"1962\", \"Image OffsetTime\": \"-04:00\", \"Image OffsetTimeOriginal\": \"-04:00\", \"Image OffsetTimeDigitized\": \"-04:00\", \"Image LensSpecification\": \"[4183519/1048501, 33/5, 9/5, 14/5]\", \"Image LensMake\": \"Apple\", \"Image LensModel\": \"iPhone 8 Plus back dual camera 3.99mm f/1.8\", \"EXIF ExposureTime\": \"1/366\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"20\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2019:10:19 09:23:39\", \"EXIF DateTimeDigitized\": \"2019:10:19 09:23:39\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"110653/12993\", \"EXIF ApertureValue\": \"54823/32325\", \"EXIF BrightnessValue\": \"63951/8305\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, auto mode\", \"EXIF FocalLength\": \"399/100\", \"EXIF SubjectArea\": \"[2015, 1511, 2217, 1330]\", \"EXIF SubSecTimeOriginal\": \"419\", \"EXIF SubSecTimeDigitized\": \"419\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"2016\", \"EXIF ExifImageLength\": \"1512\", \"EXIF SensingMethod\": \"One-chip color area\", \"EXIF SceneType\": \"0\", \"EXIF CustomRendered\": \"2\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF FocalLengthIn35mmFilm\": \"28\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF OffsetSchema\": \"0\"}",
+    "sha256": "4e1d1138eeda643445e06128db79bd0996bbcc4e745fcb8188286007cf2f3730"
+}

@@ -1,0 +1,18 @@
+{
+    "similarity": 0.2940220832824707,
+    "hash": 8128950697890089025,
+    "punsafe": 0.05477094650268555,
+    "pwatermark": 0.08989793062210083,
+    "aesthetic": 7.3075151443481445,
+    "caption": "Councillors on the bins",
+    "url": "https://theimagestudio.tv/wp-content/uploads/2015/09/3-9468-200x300.jpg",
+    "key": "000013682",
+    "status": "success",
+    "error_message": null,
+    "width": 200,
+    "height": 300,
+    "original_width": 200,
+    "original_height": 300,
+    "exif": "{\"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark III\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop Lightroom 6.1.1 (Windows)\", \"Image DateTime\": \"2015:09:09 10:50:36\", \"Image ExifOffset\": \"216\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"870\", \"Thumbnail JPEGInterchangeFormatLength\": \"13962\", \"EXIF ExposureTime\": \"1/80\", \"EXIF FNumber\": \"9\", \"EXIF ExposureProgram\": \"Manual\", \"EXIF ISOSpeedRatings\": \"400\", \"EXIF SensitivityType\": \"Recommended Exposure Index\", \"EXIF RecommendedExposureIndex\": \"400\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2015:09:08 11:54:18\", \"EXIF DateTimeDigitized\": \"2015:09:08 11:54:18\", \"EXIF ShutterSpeedValue\": \"790241/125000\", \"EXIF ApertureValue\": \"126797/20000\", \"EXIF ExposureBiasValue\": \"0\", \"EXIF MaxApertureValue\": \"3\", \"EXIF MeteringMode\": \"Partial\", \"EXIF Flash\": \"Flash fired, compulsory flash mode\", \"EXIF FocalLength\": \"24\", \"EXIF SubSecTimeOriginal\": \"00\", \"EXIF SubSecTimeDigitized\": \"00\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF FocalPlaneXResolution\": \"1600\", \"EXIF FocalPlaneYResolution\": \"1600\", \"EXIF FocalPlaneResolutionUnit\": \"3\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Manual Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\", \"EXIF BodySerialNumber\": \"375023000249\", \"EXIF LensSpecification\": \"[24, 70, 0/0, 0/0]\", \"EXIF LensModel\": \"EF24-70mm f/2.8L II USM\", \"EXIF LensSerialNumber\": \"2005001434\"}",
+    "sha256": "0abda239a82c93eeff26a711316e0c7ea3a6299e376d57a8b090927f3bb08a72"
+}

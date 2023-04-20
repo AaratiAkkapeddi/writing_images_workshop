@@ -1,0 +1,18 @@
+{
+    "similarity": 0.3067919909954071,
+    "hash": -2315063045605578263,
+    "punsafe": 0.00041669607162475586,
+    "pwatermark": 0.05517377704381943,
+    "aesthetic": 7.062948226928711,
+    "caption": "A101_pomegranate",
+    "url": "http://g2.img-dpreview.com/233F878F3C2F49FB8147BE6E32AB59DF.jpg",
+    "key": "000014605",
+    "status": "success",
+    "error_message": null,
+    "width": 480,
+    "height": 319,
+    "original_width": 480,
+    "original_height": 319,
+    "exif": "{\"Image Make\": \"PENTAX\", \"Image Model\": \"PENTAX K-x\", \"Image ExifOffset\": \"90\", \"EXIF ExposureTime\": \"25\", \"EXIF FNumber\": \"18\", \"EXIF ISOSpeedRatings\": \"200\", \"EXIF DateTimeOriginal\": \"2011:02:05 15:41:13\", \"EXIF DateTimeDigitized\": \"2011:02:05 15:41:13\", \"EXIF ExposureBiasValue\": \"-3/10\", \"EXIF MeteringMode\": \"Pattern\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"100\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Bracket\", \"EXIF WhiteBalance\": \"Manual\"}",
+    "sha256": "87a37c8889fd0264c43892ef31ad3f00326539df6bfa8157a7e529fb2d0cdf15"
+}

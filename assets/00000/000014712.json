@@ -1,0 +1,18 @@
+{
+    "similarity": 0.31563863158226013,
+    "hash": 6739153634937565382,
+    "punsafe": 6.189919804455712e-05,
+    "pwatermark": 0.030303478240966797,
+    "aesthetic": 7.31633186340332,
+    "caption": "Beef Stew",
+    "url": "https://s3-eu-west-1.amazonaws.com/inspiremymeal/recipe_card/581891b3c8a53.jpg",
+    "key": "000014712",
+    "status": "success",
+    "error_message": null,
+    "width": 420,
+    "height": 280,
+    "original_width": 420,
+    "original_height": 280,
+    "exif": "{}",
+    "sha256": "6a29c58657fc39ad38161abb437079490bd134bc553b27956a7d4c33b356ab43"
+}

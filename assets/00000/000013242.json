@@ -1,0 +1,18 @@
+{
+    "similarity": 0.2852856516838074,
+    "hash": -5354090753966874972,
+    "punsafe": 0.0007425844669342041,
+    "pwatermark": 0.14173592627048492,
+    "aesthetic": 7.681741237640381,
+    "caption": "bed from Squint",
+    "url": "http://3.bp.blogspot.com/_zO7E0wkpor4/S75Zt9-jsiI/AAAAAAAABqY/i0s88OIz-fA/s1600/1bed.jpg",
+    "key": "000013242",
+    "status": "success",
+    "error_message": null,
+    "width": 513,
+    "height": 384,
+    "original_width": 650,
+    "original_height": 487,
+    "exif": "{\"Image Software\": \"Google\", \"Image YCbCrSubSampling\": \"[2, 2]\", \"Image ExifOffset\": \"58\", \"EXIF ExifVersion\": \"\", \"EXIF ExifImageWidth\": \"650\", \"EXIF ExifImageLength\": \"487\"}",
+    "sha256": "7460f4d0e37a0c9b4d7758d2680ec77e16276966359168280f4b4592b35cd7ae"
+}

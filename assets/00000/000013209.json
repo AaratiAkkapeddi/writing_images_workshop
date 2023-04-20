@@ -1,0 +1,18 @@
+{
+    "similarity": 0.30156826972961426,
+    "hash": 5779449384875209789,
+    "punsafe": 0.00045114755630493164,
+    "pwatermark": 0.04984700679779053,
+    "aesthetic": 7.236209869384766,
+    "caption": "Three Protein-Packed Smoothies",
+    "url": "https://lemonstripes.com/wp-content/uploads/2017/07/LS-x-ALOHA-6.jpg",
+    "key": "000013209",
+    "status": "success",
+    "error_message": null,
+    "width": 384,
+    "height": 576,
+    "original_width": 1300,
+    "original_height": 1950,
+    "exif": "{\"Image ImageWidth\": \"3744\", \"Image ImageLength\": \"5616\", \"Image BitsPerSample\": \"[8, 8, 8]\", \"Image PhotometricInterpretation\": \"2\", \"Image Make\": \"Canon\", \"Image Model\": \"Canon EOS 5D Mark II\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"72\", \"Image YResolution\": \"72\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC 2017 (Macintosh)\", \"Image DateTime\": \"2017:07:11 13:42:33\", \"Image YCbCrPositioning\": \"Co-sited\", \"Image ExifOffset\": \"312\", \"GPS GPSVersionID\": \"[0, 0, 0, 0]\", \"Image GPSInfo\": \"1100\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"1214\", \"Thumbnail JPEGInterchangeFormatLength\": \"7737\", \"EXIF ExposureTime\": \"1/40\", \"EXIF FNumber\": \"9/5\", \"EXIF ExposureProgram\": \"Program Normal\", \"EXIF ISOSpeedRatings\": \"2500\", \"EXIF ExifVersion\": \"\", \"EXIF DateTimeOriginal\": \"2017:07:11 12:08:47\", \"EXIF DateTimeDigitized\": \"2017:07:11 12:08:47\", \"EXIF ComponentsConfiguration\": \"\", \"EXIF ShutterSpeedValue\": \"43/8\", \"EXIF ApertureValue\": \"13/8\", \"EXIF ExposureBiasValue\": \"4/3\", \"EXIF MaxApertureValue\": \"1\", \"EXIF MeteringMode\": \"CenterWeightedAverage\", \"EXIF Flash\": \"Flash did not fire, compulsory flash mode\", \"EXIF FocalLength\": \"50\", \"EXIF SubSecTime\": \"21\", \"EXIF SubSecTimeOriginal\": \"21\", \"EXIF SubSecTimeDigitized\": \"21\", \"EXIF FlashPixVersion\": \"\", \"EXIF ColorSpace\": \"sRGB\", \"EXIF ExifImageWidth\": \"1300\", \"EXIF ExifImageLength\": \"1950\", \"Interoperability InteroperabilityIndex\": \"R98\", \"Interoperability InteroperabilityVersion\": \"[0, 0, 0, 0]\", \"EXIF InteroperabilityOffset\": \"1068\", \"EXIF FocalPlaneXResolution\": \"5616000/1459\", \"EXIF FocalPlaneYResolution\": \"1872000/479\", \"EXIF FocalPlaneResolutionUnit\": \"2\", \"EXIF CustomRendered\": \"Normal\", \"EXIF ExposureMode\": \"Auto Exposure\", \"EXIF WhiteBalance\": \"Auto\", \"EXIF SceneCaptureType\": \"Standard\"}",
+    "sha256": "8fea22ca404dd6952fbcee1ae2ce05009bf38752e1991c5375dc21a5d6cec6c4"
+}

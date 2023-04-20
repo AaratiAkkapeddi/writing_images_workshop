@@ -1,0 +1,18 @@
+{
+    "similarity": 0.3089677393436432,
+    "hash": 1998195189302463026,
+    "punsafe": 3.566685563782812e-06,
+    "pwatermark": 0.09066300839185715,
+    "aesthetic": 7.236701965332031,
+    "caption": "Kitchen Cart",
+    "url": "https://secure.img1-fg.wfcdn.com/im/46042462/compr-r85/5190/51909707/bryn-kitchen-cart.jpg",
+    "key": "000014805",
+    "status": "success",
+    "error_message": null,
+    "width": 384,
+    "height": 384,
+    "original_width": 2000,
+    "original_height": 2000,
+    "exif": "{\"Image ImageWidth\": \"2000\", \"Image ImageLength\": \"2000\", \"Image BitsPerSample\": \"[16, 16, 16]\", \"Image Compression\": \"Uncompressed\", \"Image PhotometricInterpretation\": \"2\", \"Image Orientation\": \"Horizontal (normal)\", \"Image SamplesPerPixel\": \"3\", \"Image XResolution\": \"300\", \"Image YResolution\": \"300\", \"Image PlanarConfiguration\": \"1\", \"Image ResolutionUnit\": \"Pixels/Inch\", \"Image Software\": \"Adobe Photoshop CC (Windows)\", \"Image DateTime\": \"2018:03:19 11:31:10\", \"Image ExifOffset\": \"256\", \"Thumbnail Compression\": \"JPEG (old-style)\", \"Thumbnail XResolution\": \"72\", \"Thumbnail YResolution\": \"72\", \"Thumbnail ResolutionUnit\": \"Pixels/Inch\", \"Thumbnail JPEGInterchangeFormat\": \"394\", \"Thumbnail JPEGInterchangeFormatLength\": \"7341\", \"EXIF ColorSpace\": \"Uncalibrated\", \"EXIF ExifImageWidth\": \"2000\", \"EXIF ExifImageLength\": \"2000\"}",
+    "sha256": "ee3afdde46cd2a3a3b30bd98a2cc2be419ed53906758e9801b38c70198553cb2"
+}
