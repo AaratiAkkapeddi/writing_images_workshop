@@ -4,11 +4,31 @@ body{
     font-family:sans-serif;
     color:whitesmoke;
     margin:0;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+#fun img{
+    position: fixed;
+    opacity: 0.2;
+    z-index: -2;
+}
+#intro h1{
+    /* font-weight: normal; */
+    margin:0;
+    font-size:75px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 #intro a,#intro a:visited, #intro{
     display: block;
     color:rgb(24, 24, 24);
     font-size:56px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#intro a:hover{
+    font-style: italic;
+}
+#intro{
+    padding:10px;
 }
 #key{
     position:fixed;
@@ -90,10 +110,14 @@ nav a,nav a:hover,nav a:visited{
     position:fixed;
     top:0;
     left:0;
-    padding:5px;
+    z-index: 999;
+    padding:10px;
     text-decoration: none;
     background-color: rgb(24, 24, 24);
     color: #dbd7d2;
+}
+nav a:hover{
+    font-style: italic;
 }
 
 #wrapper div p{
@@ -155,6 +179,7 @@ nav a,nav a:hover,nav a:visited{
 #wrapper div.on{
     position: relative;
     z-index: 9;
+    background-color: transparent;
 }
 
 #wrapper div.on p{
