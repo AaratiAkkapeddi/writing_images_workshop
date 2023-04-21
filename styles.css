@@ -42,6 +42,14 @@ body{
     font-style: italic;
     display: block;
 }
+#image-game p{
+    opacity:0;
+    transition:0.2s;
+}
+#image-game.on p{
+    opacity:1;
+    transition:0.2s;
+}
 #cats{
     padding-left: 0;
     max-height:200px;
