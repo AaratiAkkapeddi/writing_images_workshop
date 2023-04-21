@@ -5,7 +5,6 @@ body{
     color:whitesmoke;
     margin:0;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-
 }
 #intro #diagram{
     margin: 100px auto;
@@ -248,11 +247,37 @@ nav a:hover{
 #screen.on{
     background-color: rgb(0 0 0 / 76%);
     width: 349vh;
-    height: 209vw;
+    height: 100vh;
     position: fixed;
     z-index: 0;
     top: 0;
     left: 0;
     content: " ";
     display: inline-block;
+}
+
+@media (max-width:768px) {
+    #intro small{
+        font-size:16px;
+    }
+    #intro h1{
+        font-size: 24px;
+    }
+    #intro a,#intro a:visited, #intro, #wrapper div p{
+        font-size:24px;
+    }
+    #wrapper div p small{
+        font-size:16px;
+    }
+    #intro #diagram a{
+        display: block;
+        text-align: center;
+    }
+    #intro img{
+        width: 100%;
+    }
+    /* body.laion{
+        max-height: 100vh;
+        overflow-y:hidden;
+    } */
 }
