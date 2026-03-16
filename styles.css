@@ -6,6 +6,7 @@ body{
     margin:0;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+
 #intro #diagram{
     margin: 100px auto;
 }
@@ -19,6 +20,7 @@ body{
     box-sizing: border-box;
     border:15px solid rgb(24,24,24);
     color: #dbd7d2;
+    font-size: 16px;
 }
 #intro #diagram a:link,#intro #diagram a:visited{
     color:#dbd7d2;
@@ -33,7 +35,7 @@ body{
     z-index: -2;
 }
 #intro img{
-    width: 500px;
+    width: 200px;
 }
 #intro small{
     font-size:20px;
@@ -74,6 +76,8 @@ body{
     font-style: italic;
 }
 #intro{
+    max-width: 1000px;
+    margin:0 auto;
     padding:10px;
 }
 #key{
