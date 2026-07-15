@@ -82,7 +82,7 @@ body{
 }
 #key{
     position:fixed;
-    top:570px;
+    bottom:70px;
     left:15px;
     z-index: -1;
     pointer-events: none;
@@ -118,7 +118,9 @@ body{
 
 #wrapper{
     display:flex;
+    list-style: none;
     flex-wrap: wrap;
+    padding-left:0;
     flex-direction: column;
     height:550px;
 }
@@ -132,7 +134,7 @@ body{
     border:1px solid rgb(24,24,24);
 }
 
-#wrapper > div{
+#wrapper > li{
     width: 192px;
     text-align: center;
     height: 168px;
@@ -144,8 +146,8 @@ body{
     padding-top:0px;
 }
 
-#wrapper div .img{
-    max-width: calc(100% - 20px);
+#wrapper li .img{
+    width: calc(100% - 20px);
     transition:0.2s;
     height: 145px;
     display: block;
@@ -170,7 +172,7 @@ nav a:hover{
     font-style: italic;
 }
 
-#wrapper div p{
+#wrapper li p{
     transition:0.2s;
     bottom:0;
     left:0;
@@ -187,11 +189,11 @@ nav a:hover{
     
 }
 
-#wrapper div.on p{
+#wrapper li.on p{
 
     z-index: 9;
 }
-#wrapper div p small{
+#wrapper li p small{
     font-size:24px;
     line-height:1;
 }
@@ -203,11 +205,11 @@ nav a:hover{
     
 }
 
-#wrapper.reverse div.on .img{
+#wrapper.reverse li.on .img{
     opacity: 1;
     
 }
-#wrapper p{
+#wrapper li p{
     opacity: 0;
     text-align: left;
     width:calc(100% - 50px);
@@ -222,21 +224,21 @@ nav a:hover{
     text-align: left;
 }
 
-#wrapper.reverse div.on p{
+#wrapper.reverse li.on p{
     opacity: 0;
 }
 
-#wrapper div.on{
+#wrapper li.on{
     position: relative;
     z-index: 9;
     background-color: transparent;
 }
 
-#wrapper div.on p{
+#wrapper li.on p{
     opacity: 1;
 }
 
-#wrapper div.on .img{
+#wrapper li.on .img{
     opacity: 1;
     transform-origin: top center;
     transform: scale(2.7);
@@ -259,6 +261,21 @@ nav a:hover{
     content: " ";
     display: inline-block;
 }
+.img {
+    border: 3px solid transparent;
+    cursor: pointer;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: transparent;
+}
+
+.img:hover,
+.img:focus-visible {
+    border-color: #005fcc;
+    outline: 3px solid #005fcc;
+    outline-offset: 4px;
+}
 
 @media (max-width:768px) {
     #intro small{
@@ -267,10 +284,10 @@ nav a:hover{
     #intro h1{
         font-size: 24px;
     }
-    #intro a,#intro a:visited, #intro, #wrapper div p{
+    #intro a,#intro a:visited, #intro, #wrapper li p{
         font-size:24px;
     }
-    #wrapper div p small{
+    #wrapper li p small{
         font-size:16px;
     }
     #intro #diagram a{

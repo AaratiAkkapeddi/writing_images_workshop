@@ -6,13 +6,18 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Workshop</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="accessibility.css">
 </head>
 <body class="laion">
-    <div id="screen"></div>
-    <div id="wrapper"></div>
-    <script src="main.js"></script>
-    <div id="key"><span>aesthetic score</span><span>unsafe score</span><span>similarity score</span></div>
-    <!-- <div class="on" id="loading">loading...</div> -->
+    <a style="opacity:0;" class="skip-link" href="#wrapper">Skip to image gallery</a>
     <nav><a href="./">← back</a></nav>
+    <p id="loadStatus" class="sr-only" role="status" aria-live="polite"></p>
+    <div id="screen" role="presentation" aria-hidden="true"></div>
+    <main>
+        <ul id="wrapper" aria-label="Image gallery"></ul>
+    </main>
+    <script src="main.js"></script>
+    <div id="key" aria-hidden="true"><span>aesthetic score</span><span>unsafe score</span><span>similarity score</span></div>
+    <!-- <div class="on" id="loading">loading...</div> -->
 </body>
 </html>
