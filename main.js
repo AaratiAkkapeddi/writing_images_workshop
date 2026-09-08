@@ -1220,9 +1220,9 @@ for (let x = 0; x < files.length; x++) {
                 sim.style.width = valsim + "px";
                 div.appendChild(img);
                 div.appendChild(p);
-                div.appendChild(aesthetic)
-                div.appendChild(unsafe)
-                div.appendChild(sim)
+                // div.appendChild(aesthetic)
+                // div.appendChild(unsafe)
+                // div.appendChild(sim)
                 img.addEventListener("click", function () {
                     if (this.parentElement.classList.contains("on")) {
                         this.parentElement.classList.remove("on")
