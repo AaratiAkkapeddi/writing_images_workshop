@@ -12,8 +12,11 @@
 
     <div id="intro">
         <a href="./">← back</a><br><br>
+        <h1>Alt <Textarea></Textarea></h1>
         <img alt="a screenshot of the NYPL library website showing the alt text for one of the images" src="./assets/alt_text.png"/><br>
 <br>
+        <p>On websites, alt text is an important part of HTML code that allows us to describe images for things like
+            vision-impaired visitors or as a replacement when image files don't load.</p>
 
 Excerpt from <a href="https://docs.google.com/document/d/15oSMuDX5OnYaJ6ZTe5QVTC2fB7kE-EDY5wPQMmD-3BA/edit#">Alt Text As Poetry:</a>
 <blockquote>
@@ -24,38 +27,36 @@ Alt text (or alternative text) is a written description of an image posted onlin
 .... Alt text allows visual content to be accessible to people who are blind, have low vision, or have certain cognitive disabilities.
 
 Blind people often use software called screen readers to access digital displays. The screen reader outputs the text on the screen to a synthetic voice or refreshable braille display. On a website, a screen reader might readout options in the navigation bar, followed by the title, the first paragraph, the second paragraph, etc. When a screen reader encounters an image, it’s unable to “read” it. So instead, it looks for the alt text — an associated description of the image, embedded in the code. This is how alt text functions as a non-visual alternative to an image. 
-
-
-
-<h3>Alt text and you</h3>
-
-Alt text is not visually displayed on a website, so if you aren’t a web developer or a screen reader user, you mostly interact with alt text by writing it and adding it to your images through designated form fields during the image upload process. When you include alt text with your images, you contribute to making the internet a more accessible place. 
-
-You have the option to add alt text to your posts on Twitter, Instagram, and Facebook. Depending on the platform you use, it may be possible to add alt text to your personal website or blog (and if the platform doesn’t include a field for entering alt text, you can usually work around that by including an image description in the caption or somewhere else adjacent to the image). It is important to note that alt text is only one part of web accessibility. Don’t assume that because you’ve added alt text a website is fully accessible.  
-
-You may be able to influence the accessibility practices where you work or volunteer. Even if the organization’s website or social media aren’t directly your responsibility, it’s worth asking questions about accessibility practices to make sure that  people are aware of alt text. 
-
-If you are looking for instructions about how to add alt text to a specific platform, you should be able to find a step-by-step guide by searching online. For example, search “how to add alt text to twitter.”
-
-
-
-<h3>Writing alt text</h3>
-
-Wikipedia's Style Guide offers these questions to ask yourself when writing alt text:
-<ul>
-<li>Why is this image here?</li>
-<li>What information is it presenting?</li>
-<li>What purpose does it fulfill?</li>
-</ul>
-Though alt text is usually thought of as part of the nuts and bolts of a website, it has tremendous expressive potential. How to translate visual information into text is a complex and interesting task.
-
-That said, when thinking about its expressive potential, it is important to stay rooted in alt text as an accessibility practice. When writing alt text, work in a way that centers the experience of someone who has limited or no access to the visual information in the image.  
-
-
 </blockquote>
+<p>Real examples of alt text within common crawl data:</p>
+<img src="./assets/alt_text_common_crawl_1.png"/>
+<p> 
+<pre>
+&lt;img decoding="async" src="https://abbcfp.com/wp-content/uploads/elementor/thumbs/man-is-reaching-his-hand-push-fire-alarm-hand-station-scaled-r6zb5mabxq8uctoqbhnfgq09xu0s9akss4ihk49g2c.jpg" title="Man is reaching his hand to push fire alarm hand station" alt="<b>Man is reaching his hand to push fire alarm hand station</b>" loading="lazy"&gt;
+</pre>    
+</p>
+<img src="./assets/alt_text_common_crawl_2.png"/>
+<p>
+<pre>
+&lt;img src="products/big/122403/2015-Luxury-Purple-Dresses-for-Quince-with-Appliques-and-Ruffles-130.jpg" title="triumph" style="border: 2px solid rgb(102, 102, 102); width: 345px; opacity: 1;" alt="<b>2015 Luxury Purple Dresses for Quince with Appliques and Ruffles</b>"&gt;
+</pre>
+</p>
+<img src="./assets/alt_text_common_crawl_3.png"/>
+<p>
+    <pre>
+&lt;img fetchpriority="high" decoding="async" width="300" height="600" src="https://aaronarmstrong.co/wp-content/uploads/2025/05/Available-Now.webp" alt="<b>Faith Simplified: Available Now</b>" class="wp-image-45370"&gt;
+</pre></p>
 
-Let's surf the web together and examine Alt-text 'in the wild.'
-In Chrome, on any website, you can right click on an image and select 'inspect' to view its HTML code. Take a few minutes to try this out on different websites.
+
+<h4>Activity:</h4>
+<p>Let's surf the web and examine Alt-text 'in the wild.' In most browsers, on any website, you can right click on an image and select 'inspect' to view its HTML code. </p>
+
+<p>Take a few minutes with a partner to try this out on different websites and be ready to share 2 examples of alt text in the wild and in your opinion, what is helpful and/or unhelpful about how it's written.</p>
+
+<p>What do you think about the fact that these captions are written for screen readers but then used in a dataset used to train text-to-image models?</p>
+
+<br><br>
+
 <br><br>   <a href="./">← back</a><br>
 </div>
     <!-- <script src="fun.js"></script> -->
