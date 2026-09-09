@@ -12,15 +12,13 @@
 <body>
     <br><br>
     <div id="intro">
-        <img id="main-image-home" src="./assets/download.jpeg" />
-        <h1>Writing Images: Exploring the data behind popular text to image generation models</h1><br>
-        This website provides a brief introduction to the data and technical processes behind popular text to image
-        models. <em>*caveat alert: a lot of large models are proprietary meaning we can't be 100% sure what they are trained on but likely it is a combination of LAION-5b and other datasets</em>
-        <br><br>
-        Below, we take a ‘tour’ of the creation of LAION 5b (one of the largest text & image datasets), making pit-stops along the way to unpack technical terms and discuss potential
+
+        <h1>Exploring the data behind popular text to image generation models</h1><br>
+        <a href="https://laion.ai/" target="_blank"><em>LAION-5b</em></a> is the largest image dataset publicly available for training text-to-image generation models. It contains 5.85 billion image-text pairs, and is the dataset used to train Stable Diffusion, a popular text-to-image generation model. It is likely used at least in part to train other popular text-to-image generation models, such as DALL-E 2 and Imagen. 
+        Below, we take a ‘tour’ of the creation of LAION 5b, making pit-stops along the way to unpack technical terms and discuss potential
         ethical questions that arise. A lot of what I've learned is from <a
             href='https://arxiv.org/pdf/2110.01963.pdf' target="_blank">this paper by Abeba Birhane, Vinay Uday Prabhu and Emmanuel Kahembwe ↗</a>.
-
+        LAION 5b
         <div id="diagram">
             <h4>Our Journey</h4><a href="./common.html">1. Common-crawl </a><a href="./alttext.html">2. Alt-text </a><a
                 href="./clip.html">3. CLIP Filtering </a><a href="./laion.html">4. LAION-5B </a>
